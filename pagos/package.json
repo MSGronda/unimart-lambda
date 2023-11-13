@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.218.0",
+    "axios": "^1.2.0"
+  }
+}
